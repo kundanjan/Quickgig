@@ -27,11 +27,13 @@ Quickgig is an Android platform that connects freelancers and clients, providing
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/fdfe4cbb-eaef-4e7e-8da8-151bec6081ce)
-![image](https://github.com/user-attachments/assets/d10dfb58-001e-455c-ab33-029231c1a9a5)
-![image](https://github.com/user-attachments/assets/26ae8c40-0d69-4989-b07c-5c423abae64b)
-![image](https://github.com/user-attachments/assets/2450b09f-fde3-4ffc-bb2a-08c92bcf5a5b)
-![image](https://github.com/user-attachments/assets/7ac65b66-b989-495d-b66b-478bcec85a80)
+## 📸 Additional Screenshots
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4 |
+|----------|----------|----------|----------|
+| ![](https://github.com/user-attachments/assets/fdfe4cbb-eaef-4e7e-8da8-151bec6081ce) | ![](https://github.com/user-attachments/assets/d10dfb58-001e-455c-ab33-029231c1a9a5) | ![](https://github.com/user-attachments/assets/26ae8c40-0d69-4989-b07c-5c423abae64b) | ![](https://github.com/user-attachments/assets/2450b09f-fde3-4ffc-bb2a-08c92bcf5a5b) |
+| Screen 5 | Screen 6 | Screen 7 |          |
+| ![](https://github.com/user-attachments/assets/7ac65b66-b989-495d-b66b-478bcec85a80) | ![](https://github.com/user-attachments/assets/67395df0-28d4-47a0-b635-ce63b5849062) | ![](https://github.com/user-attachments/assets/0ebdf377-7fad-4d2e-b611-42b0d4d59edc) |          |
 
 
 
