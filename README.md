@@ -27,7 +27,13 @@ Quickgig is an Android platform that connects freelancers and clients, providing
 
 ## Screenshots
 
-*Add screenshots here to showcase your app UI.*
+![image](https://github.com/user-attachments/assets/fdfe4cbb-eaef-4e7e-8da8-151bec6081ce)
+![image](https://github.com/user-attachments/assets/d10dfb58-001e-455c-ab33-029231c1a9a5)
+![image](https://github.com/user-attachments/assets/26ae8c40-0d69-4989-b07c-5c423abae64b)
+![image](https://github.com/user-attachments/assets/2450b09f-fde3-4ffc-bb2a-08c92bcf5a5b)
+![image](https://github.com/user-attachments/assets/7ac65b66-b989-495d-b66b-478bcec85a80)
+
+
 
 ---
 
