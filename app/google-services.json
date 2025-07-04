@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964120449556",
+    "project_id": "quickgig-eeac4",
+    "storage_bucket": "quickgig-eeac4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964120449556:android:bbeaec8ae042d416a7cd01",
+        "android_client_info": {
+          "package_name": "com.example.quickgigapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZM6GAXnO-1okj47z3n0mZ9Gjvd9NBsWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

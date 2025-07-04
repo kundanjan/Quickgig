@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuickGigApp</string>
+    <string-array name="roles_array">
+        <item>Select Role</item>
+        <item>client</item>
+        <item>freelancer</item>
+    </string-array>
+
+    <!-- Profile Activity -->
+    <string name="profile_details">Profile Details</string>
+    <string name="email_label">Email:</string>
+    <string name="role_label">Role:</string>
+    <string name="member_since_label">Member Since:</string>
+    <string name="create_new_gig">Create a New Gig</string>
+
+    <!-- Dialog -->
+    <string name="create_gig_title">Create New Gig</string>
+    <string name="gig_title_hint">Gig Title</string>
+    <string name="gig_description_hint">Gig Description</string>
+    <string name="gig_price_hint">Price</string>
+    <string name="create_gig_button">Create Gig</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
