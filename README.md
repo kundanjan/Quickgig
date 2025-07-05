@@ -109,11 +109,6 @@ You will need the following from your CometChat dashboard:
 
 Contributions are welcome! Please fork the repository and submit a pull request for any feature or improvement.
 
----
-
-## License
-
-*Specify your license here, e.g., MIT. If unsure, you can leave this section blank until ready.*
 
 ---
 
